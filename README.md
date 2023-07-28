@@ -6,5 +6,8 @@ Atualmente sou DEV Full, minhas linguagens atuais é:
 
 Para Banco de Dados estou em "MySQL" e iniciando em "MongoDB".
 
-(INICIEI NA AREA DA PROGRAMÇÃO EM 2017 EM C# ATRAVES DA MICROSOFT GRATUITAMENTE E HOJE NÃO TENHO MUITOS PROJETOS CONCLUIDOS,)
-(MAS TENHO EM ANDAMENTO UM JOGO MMORPG)
+(INICIEI NA AREA DA PROGRAMÇÃO EM 2017 EM C# ATRAVES DA MICROSOFT E HOJE TENHO ALGUNS PROJETOS CONCLUIDOS)
+(Veja todos nos meu repositorios) 😁
+
+
+Obs: (TENHO como objetivo fazer UM JOGO MMORPG on-line)
